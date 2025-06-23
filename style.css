@@ -10,4 +10,12 @@ body{
 header{
 
     border-bottom: solid red 3px;
+    padding-left: 20px;
+    font-size: 28px;
+    text-align: center;
+    color: red;
+}
+
+h1{
+    font-size: 34;
 }
