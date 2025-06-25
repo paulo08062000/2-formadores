@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Puppies+Play&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
 body{
     color:white;
     background-color: black;
-    font-family: "Leckerli+One", cursive;
-}
+    font-family: "Rouge Script", cursive;
+  
 
 header{
 
