@@ -32,4 +32,14 @@ p{
 .video iframe{
     width: 200px;
 
+
+.categoria-videos img{
+
+    width: 200px;
+}
+
+}
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
 }
